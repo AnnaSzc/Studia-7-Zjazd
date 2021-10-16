@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Sprawdzenie, czy zmiana wielkości znaków zmienia wyniki wyszukiwania Google</description>
+   <name>Test 04</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67fd6b18-a64e-46b3-905a-7de4f718951d</testCaseGuid>
+</TestCaseEntity>
