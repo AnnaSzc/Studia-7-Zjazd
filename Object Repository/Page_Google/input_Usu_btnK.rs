@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@name='btnK']</value>
+         <value>(//input[@name='btnK'])[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>input[name=&quot;btnK&quot;]</value>
+         <value>div.FPdoLc.lJ9FBc > center > input[name=&quot;btnK&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -63,17 +63,31 @@
       <matchCondition>equals</matchCondition>
       <name>data-ved</name>
       <type>Main</type>
-      <value>0ahUKEwidpMue7c7zAhUySDABHZEMDjAQ4dUDCAc</value>
+      <value>0ahUKEwiRo6zO8s7zAhXETDABHUOsANYQ4dUDCAs</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/div[@class=&quot;L3eUgb&quot;]/div[@class=&quot;o3j99 ikrT4e om7nvf&quot;]/form[1]/div[1]/div[@class=&quot;A8SBwf emcav&quot;]/div[@class=&quot;UUbT9&quot;]/div[@class=&quot;aajZCb&quot;]/div[@class=&quot;lJ9FBc&quot;]/center[1]/input[@class=&quot;gNO89b&quot;]</value>
+      <value>/html[1]/body[1]/div[@class=&quot;L3eUgb&quot;]/div[@class=&quot;o3j99 ikrT4e om7nvf&quot;]/form[1]/div[1]/div[@class=&quot;A8SBwf&quot;]/div[@class=&quot;FPdoLc lJ9FBc&quot;]/center[1]/input[@class=&quot;gNO89b&quot;]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@name='btnK'])[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/center/input</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
